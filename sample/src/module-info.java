@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author srika
- *
- */
-module sample {
-}
